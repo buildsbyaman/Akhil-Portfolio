@@ -4,7 +4,7 @@ A sophisticated personal portfolio website showcasing frontend development exper
 
 ## Live Application
 
-The portfolio is deployed and accessible at: [aboutakhil.vercel.app](https://aboutakhil.vercel.app/)
+The portfolio is deployed and accessible at: [aboutme-akhil.vercel.app](https://aboutme-akhil.vercel.app/)
 
 ## Technical Overview
 
